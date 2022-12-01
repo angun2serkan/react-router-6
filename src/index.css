@@ -274,12 +274,14 @@ ul {
   gap: 1rem;
 }
 
+
 .link {
   color: var(--grey-500);
 }
 
 .active {
-  color: var(--primary-500);
+  /* color: var(--primary-500); */
+  color: pink;
 }
 .products article {
   margin-bottom: 1rem;
